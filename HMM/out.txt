@@ -1,0 +1,4 @@
+Number of Samples = 5806
+Number of frames = 18 each of size 320 samples
+DC shift needed is -0.235791
+Maximum Amplitude = 4999
