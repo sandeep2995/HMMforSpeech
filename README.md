@@ -2,7 +2,7 @@
 HMM based Speech Recognition
 
 
-All the following files and graphs are in "HMM/HMM/" directory
+All the following files and graphs are in "HMM/" directory
 
 config.h---> configuration file to set various things such as delimiter, filename, thresold distortion allowed, precision of the code vectors, etc.
 
@@ -57,4 +57,4 @@ For sample log files which are generated at the time of development check "log.t
 
 "test.wav"---> test speech in .wav format
 
-we also included various other files which helped in generating the codebook.
+Various other files which helped in generating the codebook are also included.
